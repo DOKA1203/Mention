@@ -1,0 +1,7 @@
+name: Discord_Mention
+main: org.doka.plugin.mention.Main
+version: 1.0.4
+
+commands:
+  mention:
+    description: Mention Command
